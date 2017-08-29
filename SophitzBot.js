@@ -175,7 +175,7 @@ API.getWaitListPosition = function(id){
         status: false,
         name: "Sophitz",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/BrabbitX/basicBot-customization/master/extension.js",
+        scriptLink: "https://rawgit.com/mini500/Sophitz/master/SophitzBot.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/mini500/Spohitz/master/lang/en.json",
         chat: null,
