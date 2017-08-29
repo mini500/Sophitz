@@ -167,24 +167,24 @@ API.getWaitListPosition = function(id){
         return m;
     };
 
-    var botCreator = "Mini and JustJustme";
-    var botCreatorIDs = [];
+    var botCreator = "Mini";
+    var botCreatorIDs = "4878561";
 
     var basicBot = {
-        version: "0.1",
+        version: "0.1.",
         status: false,
-        name: "JustBot",
+        name: "Sophitz",
         loggedInID: null,
         scriptLink: "https://rawgit.com/BrabbitX/basicBot-customization/master/extension.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/mini500/JustMiniBot/Bot.js/lang/en.json",
+        chatLink: "https://rawgit.com/mini500/Spohitz/master/lang/en.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         settings: {
-            botName: "Justbot",
+            botName: "Sophitz",
             language: "english",
-            chatLink: "https://rawgit.com/mini500/JustMiniBot/Bot.js/lang/en.json",
+            chatLink: "https://rawgit.com/mini500/Spohitz/master/lang/en.json",
             maximumAfk: 120,
             afkRemoval: true,
             maximumDc: 60,
@@ -214,7 +214,7 @@ API.getWaitListPosition = function(id){
             afkRankCheck: "ambassador",
             motdEnabled: false,
             motdInterval: 5,
-            motd: ": I hope that everybody have a good day! :3 Don't forgot follow the rules! http://imgur.com/a/BN2UC Don't forgot check !commands. We are recommending https://rcs.radiant.dj/ with our rcs plug theme!",
+            motd: "Hope you inn joy the music and the Commnunity",
             filterChat: true,
             etaRestriction: false,
             welcome: true,
@@ -231,9 +231,9 @@ API.getWaitListPosition = function(id){
             songstats: false,
             commandLiteral: "!",
             blacklists: {
-                NSFW: 'https://rawgit.com/mini500/JustMiniBot/Bot.js/NSFW.json',
-                OP: 'https://rawgit.com/mini500/JustMiniBot/Bot.js/op.json',
-                Banned: 'https://rawgit.com/mini500/JustMiniBot/Bot.js/Banned.json',
+                NSFW: 'https://rawgit.com/mini500/Spohitz/master/NSFW.json',
+                OP: 'https://rawgit.com/mini500/Spohitz/master/op.json',
+                Banned: 'https://rawgit.com/mini500/Spohitz/master/Banned.json',
             }
         },
         room: {
