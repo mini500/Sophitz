@@ -231,9 +231,9 @@ API.getWaitListPosition = function(id){
             songstats: false,
             commandLiteral: "!",
             blacklists: {
-                NSFW: 'https://rawgit.com/mini500/Spohitz/master/NSFW.json',
-                OP: 'https://rawgit.com/mini500/Spohitz/master/op.json',
-                Banned: 'https://rawgit.com/mini500/Spohitz/master/Banned.json',
+                NSFW: 'https://raw.githubusercontent.com/mini500/Sophitz/master/NSFW.json',
+                OP: 'https://raw.githubusercontent.com/mini500/Sophitz/master/op.json',
+                Banned: 'https://raw.githubusercontent.com/mini500/Sophitz/master/Banned.json',
             }
         },
         room: {
