@@ -24,7 +24,7 @@
         "subscriber": null,
         "silversubscriber": null,
         "friend": null,
-        "user": null,
+        "user": null
     },
     "images": {
         "background": null,
