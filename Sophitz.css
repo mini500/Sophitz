@@ -1030,3 +1030,9 @@
 {
     background-image:    url("http://i.imgur.com/CIWzqAh.png");
 }
+/* Bot */
+#user-rollover.id-5793155 .badge-box >i.bdg,
+.id-5793155 > .badge-box > i.bdg
+{
+	background-image:	url("http://i.imgur.com/fnBETx8.png");
+}
