@@ -2,7 +2,7 @@
     "room": "Sophitz",
     "author": "mini500",
     "icon": null,
-    "css": "https://raw.githubusercontent.com/mini500/Sophitz/master/SophitzCCS.txt",
+    "css": "https://raw.githubusercontent.com/mini500/Sophitz/master/Sophitz.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
