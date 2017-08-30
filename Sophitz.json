@@ -42,16 +42,10 @@
     "autocomplete": {
         "!user": 0,
         "!rdj": 1,
-        "!bouncer": {
-            "role": 2
-        },
-        "!manager": {
-            "role": 3
-        },
-        "!cohost":    4
-        "!host": {
-            "role": 5
-        },
+        "!bouncer": 2,
+        "!manager": 3,
+        "!cohost":   4,
+        "!host":5,
         "!getban": 2,
         "!clearchat": 2,
         "!chatlevel": 2,
