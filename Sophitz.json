@@ -43,14 +43,14 @@
         "!user": 0,
         "!rdj": 1,
         "!bouncer": {
-            "role": 2,
+            "role": 2
         },
         "!manager": {
-            "role": 3,
+            "role": 3
         },
-        "!cohost":    4,
+        "!cohost":    4
         "!host": {
-            "role": 5,
+            "role": 5
         },
         "!getban": 2,
         "!clearchat": 2,
